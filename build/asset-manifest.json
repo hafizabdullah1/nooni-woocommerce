@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nooni-woocommerce/static/css/main.5cd188d0.css",
+    "main.js": "/nooni-woocommerce/static/js/main.a90995c5.js",
+    "static/js/787.445dc06b.chunk.js": "/nooni-woocommerce/static/js/787.445dc06b.chunk.js",
+    "static/media/interFont.ttf": "/nooni-woocommerce/static/media/interFont.853e01975d2783d9fa29.ttf",
+    "static/media/blog-1-1174x862.jpg": "/nooni-woocommerce/static/media/blog-1-1174x862.f4f9917aa97fe2d88915.jpg",
+    "static/media/blog-2-1174x862.jpg": "/nooni-woocommerce/static/media/blog-2-1174x862.5b46407b82f7ad295a81.jpg",
+    "static/media/banner-3.jpg": "/nooni-woocommerce/static/media/banner-3.6445ca8b987b61c883a8.jpg",
+    "static/media/banner-2.jpg": "/nooni-woocommerce/static/media/banner-2.06759e8aca373ae9d2de.jpg",
+    "static/media/banner-1.jpg": "/nooni-woocommerce/static/media/banner-1.6217e84cafdc4b8a1415.jpg",
+    "index.html": "/nooni-woocommerce/index.html",
+    "main.5cd188d0.css.map": "/nooni-woocommerce/static/css/main.5cd188d0.css.map",
+    "main.a90995c5.js.map": "/nooni-woocommerce/static/js/main.a90995c5.js.map",
+    "787.445dc06b.chunk.js.map": "/nooni-woocommerce/static/js/787.445dc06b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd188d0.css",
+    "static/js/main.a90995c5.js"
+  ]
+}
